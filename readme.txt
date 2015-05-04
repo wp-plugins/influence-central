@@ -1,6 +1,6 @@
 === Influence Central ===
 Requires at least: 3.1
-Tested up to: 4.0
+Tested up to: 4.2.1
 Stable tag: trunk
 License: GPL2
 License URI: influence-central.com
